@@ -19,23 +19,12 @@ I am always on the lookout for new projects to work on and new people to collabo
 <h3> I love connecting with new people, let's connect on LinkedIn! </h3>
 
 <a href="https://www.linkedin.com/in/riyasoni7/" target="_blank">
-  <img align="left" alt="Riya Soni | Linkedin" width="22px" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/social-linkedin-256.png" />
+  <img align="left" alt="Riya Soni | Linkedin" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" />
 </a>
 <a href="mailto:riya.soni09@outlook.com" target="_blank">
-  <img align="left" alt="Mail me" width="22px" src="https://cdn0.iconfinder.com/data/icons/picons-social/57/67-gmail-256.png" />
+  <img align="left" alt="Mail me" width="24px" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-256.png" />
 </a>
-<a href="https://www.instagram.com/soniriya1._/" target="_blank">
-  <img align="left" alt="Riya's Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/600/Instagram_glyph_svg-256.png" />
-</a>
-<a href="https://youtube.com/channel/UC3pIvu-X6FxRHWjGEdbCwDg" target="_blank">
-  <img align="left" alt="Riya's Youtube" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Youtube-Outline-256.png" />
-</a>
-<a href="https://twitter.com/riyasonii1?s=08" target="_blank">
-  <img align="left" alt="Riya Soni | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Twitter_glyph_svg-256.png" />
-</a>
-<a href="https://public.tableau.com/app/profile/riya.soni" target="_blank">
-  <img align="left" alt="Riya soni | Tableau" width="22px" src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-plus-empty-256.png" />
-</a>
-<br>
+
+
 
 

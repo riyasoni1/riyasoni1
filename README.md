@@ -21,7 +21,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 <a href="https://www.linkedin.com/in/riyasoni7/" target="_blank">
   <img align="left" alt="Riya Soni | Linkedin" width="22px" src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/social-linkedin-256.png" />
 </a>
-<a href="mailto:soniriya725@gmail.com" target="_blank">
+<a href="mailto:riya.soni09@outlook.com" target="_blank">
   <img align="left" alt="Mail me" width="22px" src="https://cdn0.iconfinder.com/data/icons/picons-social/57/67-gmail-256.png" />
 </a>
 <a href="https://www.instagram.com/soniriya1._/" target="_blank">
